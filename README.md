@@ -11,7 +11,7 @@ Physical retail spaces lack the granular analytics of e-commerce websites. This 
 This end-to-end Computer Vision pipeline detects customers, assigns persistent tracking IDs, and calculates **Dwell Time** (how long a customer interacts with a specific shelf) using custom-defined spatial polygon zones. The backend tracking data is then exported to a live Streamlit dashboard for high-level KPI monitoring.
 
 ### 🎥 Demonstration
-*(Watch the pipeline in action)*
+*(Watch the pipeline in action, wait few seconds for video to load)*
 <br>
 <img src="videos/video.gif" width="800" alt="Retail Tracking Demo">
 
