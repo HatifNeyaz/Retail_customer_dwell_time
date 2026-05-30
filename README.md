@@ -13,7 +13,7 @@ This end-to-end Computer Vision pipeline detects customers, assigns persistent t
 ### 🎥 Demonstration
 *(Watch the pipeline in action)*
 <br>
-<img src="videos/demo.gif" width="800" alt="Retail Tracking Demo">
+<img src="videos/video.gif" width="800" alt="Retail Tracking Demo">
 
 ---
 
