@@ -1,0 +1,12 @@
+# Computer Vision & Deep Learning
+ultralytics>=8.0.0
+supervision>=0.26.0
+opencv-python>=4.8.0
+
+# Data Manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Dashboard & Visualization
+streamlit>=1.30.0
+plotly>=5.18.0
